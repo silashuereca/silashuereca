@@ -5,3 +5,5 @@ A little bit about me. I love building. From when I was a kid I built various th
 - 🔭 I’m currently working on [FitCAP](https://www.fitcap.app) that's built on Next.js/Supabase which now has over 120 active users!
 - 🌱 I’m currently learning more about PostgreSQL and good Database design practices
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/silas-huereca-135b9b163/)
+
+Check out some of the first projects I built or contributed to below when I started learning to code!
